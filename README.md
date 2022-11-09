@@ -1,6 +1,6 @@
 # landing-page-html-scss-js
 
-@ 17:52
+@ 50:00
 
 This repo contains the code written while following along [FCC's "How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course"](https://youtu.be/aoQ6S1a32j8) tutorial.
 
