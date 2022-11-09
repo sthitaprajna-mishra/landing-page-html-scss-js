@@ -8,3 +8,5 @@ This repo contains the code written while following along [FCC's "How to Make a 
 
 - Set up file structure
 - Started first with mobile design execution
+- Implemented mixins for responsiveness
+- Used BEM while naming CSS classes
